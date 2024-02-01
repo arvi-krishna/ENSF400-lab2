@@ -1,1 +1,1 @@
-print("Hello, world!")
+print("HE110 W0r1D!")
