@@ -1,0 +1,6 @@
+
+The tradition of using "Hello, World!" as a simple introductory program traces back to the early days of computer programming. The exact origin is a bit unclear, but it became a popular convention for writing the first program when learning a new programming language or demonstrating basic syntax.
+
+One of the earliest known instances is from the book "The C Programming Language," written by Brian Kernighan and Dennis Ritchie. The first edition of the book, published in 1978, contains a "Hello, World!" example in the introduction. The use of "Hello, World!" as a beginner's program likely spread from there and became a standard way for programmers to get started with a new language.
+
+The choice of the phrase "Hello, World!" itself is simple and memorable. It allows programmers to focus on the fundamental concepts of input, output, and syntax without the distraction of more complex logic. The tradition has persisted over the years and has become a kind of programming tradition and a symbol of the first step in learning a new programming language.
